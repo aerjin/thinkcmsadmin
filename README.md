@@ -1,0 +1,2 @@
+# thinkcmsadmin
+my public cms
